@@ -32,6 +32,7 @@
 <tr>
 <th></th>
 <th>
+<h1>hola<h1>
 <select id="tipo" name="tipo">
  <option value="" selected="seleccion">--Categoría--</option>
  <option value="artista">Artista</option>
