@@ -13,6 +13,7 @@
 </div>
 <div class="div2">
 <form id="formulario" action="inicio" method="post">
+<h1>hola cristian</h1>
 <table>
 <tr>
 <th></th>
