@@ -127,4 +127,4 @@ def server_static(filepath):
     return static_file(filepath,root='html/style')
 
 #run(host='0.0.0.0', port=argv[1])
-run(host='0.0.0.0', port=8081, debug=True)
+#run(host='0.0.0.0', port=8081, debug=True)
