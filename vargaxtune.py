@@ -6,7 +6,6 @@ import json
 import sendgrid
 import os
 from sendgrid.helpers.mail import *
-#Prueba jenkins
 
 @route('/inicio',method="get")
 @route('/')
