@@ -1,7 +1,7 @@
 import sys, os, vargaxtune, bottle
 import beaker.middleware
 
-sys.path = ['/home/usuario/prueba_jenkins/'] + sys.path
+sys.path = ['/var/www/prueba_jenkins/'] + sys.path
 
 # Change working directory so relative paths (and template lookup) work again
 os.chdir(os.path.dirname(__file__))
